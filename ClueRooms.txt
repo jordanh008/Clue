@@ -1,10 +1,10 @@
-C, Conservatory, Card
+C, Cloakroom, Card
 K, Kitchen, Card
-B, Ballroom, Card
+B, Bedroom, Card
 R, Billiard Room, card
-L, Library, Card
-S, Study, Card
-D, Dining Room, Card
+L, Loft, Card
+S, Salon, Card
+D, Dungeon, Card
 O, Lounge, Card
 H, Hall, Card
 X, Closet, Other
